@@ -51,4 +51,3 @@ No license selected yet
 If you have any questions or need assistance, feel free to contact us at [support@ai-quiz-app.com](mailto:info@ambitiousconcept.com).
 
 Happy quizzing!
-
