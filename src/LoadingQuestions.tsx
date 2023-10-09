@@ -41,7 +41,7 @@ const LoadingQuestions = ({ finished }: Props) => {
   return (
     <div className="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 w-[70vw] md:w-[60vw] flex flex-col items-center">
       <img
-      src={"/loading.gif"} 
+      src={"https://i.imgur.com/YC2EHbk.gif"} 
       width={400} 
       height={400} 
       alt="loading" />

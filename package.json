@@ -1,6 +1,6 @@
 {
   "name": "ai-quiz",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "AI Quiz App",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
